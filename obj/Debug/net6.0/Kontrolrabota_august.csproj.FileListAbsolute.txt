@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\bin\Debug\net6.0\Kontrolrabota_august.exe
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\bin\Debug\net6.0\Kontrolrabota_august.deps.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\bin\Debug\net6.0\Kontrolrabota_august.runtimeconfig.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\bin\Debug\net6.0\Kontrolrabota_august.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\bin\Debug\net6.0\Kontrolrabota_august.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.AssemblyInfo.cs
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\refint\Kontrolrabota_august.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\Kontrolrabota_august.genruntimeconfig.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Kontrolrabota_august\obj\Debug\net6.0\ref\Kontrolrabota_august.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kontrolrabota_august/1.0.0": {
+        "runtime": {
+          "Kontrolrabota_august.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kontrolrabota_august/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
